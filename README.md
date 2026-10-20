@@ -20,7 +20,7 @@ A Next.js App Router starter for the public-facing Djenic Photography website. I
 - The project does not include booking, deposits, analytics, a database or admin features yet.
 
 ## Suggested next steps
-1. Confirm the brand direction and replace placeholder text/images.
+1. Confirm the brand direction and replace placeholder text/images...
 2. Connect a real contact form provider or API route.
 3. Add consent-aware analytics if desired.
 4. Add structured business data once business details and service area are confirmed.
